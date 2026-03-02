@@ -1,16 +1,5 @@
 <h1 align="center">Soy Carlos</h1>
-<style>
-        .contenedor {
-            width: 60%;
-            margin: 50px auto;
-            padding: 20px;
-            background-color: #f4f4f4;
-            border-radius: 10px;
-            box-shadow: 0 4px 8px rgba(0,0,0,0.1);
-            font-family: Arial, sans-serif;
-            text-align: center;
-        }
-    </style>
+
 
 <h3 align="left">Connect with me:</h3>
 <div class="contenedor">
